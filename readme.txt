@@ -13,11 +13,11 @@ KickAss is completely free ( MIT Licensed ) wordpress slider plugin with CSS3 tr
 
 == Description ==
 
-KickAss is completely free (distributed under MIT License) wordpress slider plugin with CSS3 transitions ( with jQuery fallback ) and drag-n-drop UI admin panel.
+KickAss is completely free ( distributed under MIT License ) wordpress slider plugin with CSS3 transitions ( with jQuery fallback ) and drag-n-drop UI admin panel.
 
-[Download](http://wordpress.org/extend/plugins/kickass-slider/) from wordpress plugin repository 
-Checkout the live [demo](http://jashwant.github.io/kickass-slider/)<br><br>
-Contribute to project at [github](https://github.com/jashwant/kickass-Slider)
+* Checkout the live [demo](http://jashwant.github.io/kickass-slider/).
+* Contribute to project at [github](https://github.com/jashwant/kickass-Slider)
+* [Download](http://wordpress.org/extend/plugins/kickass-slider/) from wordpress plugin repository.
 
 == Installation ==
 
@@ -33,11 +33,11 @@ You can report bugs / issues at [github issue page](https://github.com/jashwant/
 
 = How can I contribute to plugin development ? =
 
-You can contribute to plugin developed from [github](https://github.com/jashwant/kickass-Slider).<br>Do something nice and fork the project.
+You can contribute from [github](https://github.com/jashwant/kickass-Slider).<br>Do something nice and fork the project.
 
 = I loved the plugin, how can I show gratitude ? =
 
-You can donate the author to support opensource culture. You can donate [here](http://jashwant.github.io/kickass-slider/#donate).
+You can donate the author to support opensource culture. Donate [here](http://jashwant.github.io/kickass-slider/#donate).
 
 
 == Screenshots ==
