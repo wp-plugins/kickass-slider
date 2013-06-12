@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: KickAss Slider
-Plugin URI: http://www.jashwant.com/kickass-slider
+Plugin URI: http://jashwant.github.io/kickass-slider
 Description: Slider having CSS3 animations ( with jQuery fallback ) and drag n drop UI.
 Version: 1.1
 Author: Jashwant Singh Chaudhary
