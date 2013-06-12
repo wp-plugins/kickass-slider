@@ -50,7 +50,7 @@ You can donate the author to support opensource culture. Donate [here](http://ja
 == Changelog ==
 
 = 1.2 = 
-*Bug Fix: Fixes the bug, to allow more than 10 slides in a slider
+* Bug Fix: Fixes the bug, to allow more than 10 slides in a slider
 
 = 1.1 =
 * Bug Fix: Fixes IE8 opacity bug
