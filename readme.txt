@@ -5,7 +5,7 @@ Tags: parallax slider,css3 slider,slider,parallax,drag-n-drop
 Requires at least: 3.5
 (I have used only 1 or 2 features of wordpress 3.5, if someone wants, he/she can fork with fallback code)
 Tested up to: 3.5.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: MIT Licensed (compatible with GPLv2 or later)
 License URI: http://opensource.org/licenses/MIT
 
@@ -48,6 +48,9 @@ You can donate the author to support opensource culture. Donate [here](http://ja
 4. List sliders (backend).
 
 == Changelog ==
+
+= 1.2 = 
+*Bug Fix: Fixes the bug, to allow more than 10 slides in a slider
 
 = 1.1 =
 * Bug Fix: Fixes IE8 opacity bug
